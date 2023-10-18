@@ -9,6 +9,17 @@ My name is **Andrew** and I'm passionate frontend developer
 - Team player
 
 ---
+## Hello everyone 👋
+
+My name is **Andrew** and I'm passionate frontend developer
+
+### About Me:
+- Frontend developer with 5+ years of experience
+- React and it's ecosystem expert
+- Experienced mentor
+- Team player
+
+---
 
 ### My skills <img src="https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" width="50">
 #### Frontend  
@@ -27,3 +38,4 @@ My name is **Andrew** and I'm passionate frontend developer
 #### Additional technologies
 ![Webpack](https://img.shields.io/badge/Webpack-%23323330.svg?style=for-the-badge&logo=Webpack&logoColor=%23F7DF1Ez) ![Centrifugo](https://img.shields.io/badge/Centrifugo-%23323330.svg?style=for-the-badge&logo=Centrifugo&logoColor=%23F7DF1Ez) ![GraphQL](https://img.shields.io/badge/GraphQL-%23323330.svg?style=for-the-badge&logo=GraphQL&logoColor=%23F7DF1Ez)
 ### Check out my gists ☞ [<img src= "https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png" width="70">](https://gist.github.com/andrewdev111)
+
