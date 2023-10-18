@@ -14,11 +14,16 @@ My name is **Andrew** and I'm passionate frontend developer
 #### Frontend  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+#### Framework
+![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=%23F7DF1Ez) ![Next.js](https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=Next.js&logoColor=%23F7DF1Ez) 
 
  #### Libraries
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
 ![formik-og](https://user-images.githubusercontent.com/52775865/162455247-cc1aa3ef-5f81-49fd-a478-10728fd2edde.png) ![fa3caa6933e52bd266cc9fbe6eb07d64](https://user-images.githubusercontent.com/52775865/162456297-011bc6e7-8c45-48df-97b3-d10bebe9c07b.png)
+![mobx](https://img.shields.io/badge/mobx-%23323330.svg?style=for-the-badge&logo=mobx&logoColor=%23F7DF1Ez) ![Axios](https://img.shields.io/badge/Axios-%23323330.svg?style=for-the-badge&logo=Axios&logoColor=%23F7DF1Ez)
 #### Test
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-%23323330.svg?style=for-the-badge&logo=React%20Testing%20Library&logoColor=%23F7DF1Ez)
 
+#### Additional technologies
+![Webpack](https://img.shields.io/badge/Webpack-%23323330.svg?style=for-the-badge&logo=Webpack&logoColor=%23F7DF1Ez) ![Centrifugo](https://img.shields.io/badge/Centrifugo-%23323330.svg?style=for-the-badge&logo=Centrifugo&logoColor=%23F7DF1Ez) ![GraphQL](https://img.shields.io/badge/GraphQL-%23323330.svg?style=for-the-badge&logo=GraphQL&logoColor=%23F7DF1Ez)
 ### Check out my gists ☞ [<img src= "https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png" width="70">](https://gist.github.com/andrewdev111)
