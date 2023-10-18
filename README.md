@@ -1,14 +1,4 @@
-## Hello everyone 👋
 
-My name is **Andrew** and I'm passionate frontend developer
-
-### About Me:
-- Frontend developer with 5+ years of experience
-- React and it's ecosystem expert
-- Experienced mentor
-- Team player
-
----
 ## Hello everyone 👋
 
 My name is **Andrew** and I'm passionate frontend developer
